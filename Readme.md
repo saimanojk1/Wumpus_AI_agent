@@ -1,0 +1,2 @@
+#This is part of assignment for the course Artificial Intelligence
+This involves making of an AI for the game of Wumpus. This was programmed in Java. Please read the report file for more info on the implementation of the AI agent.
